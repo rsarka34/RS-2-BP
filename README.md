@@ -1,4 +1,4 @@
-
+# RS-2-BP
 
 **RS-2-BP: A Unified Deep Learning Framework for Deriving EIT-Based Breathing Patterns from Respiratory Sounds**
 
@@ -21,7 +21,10 @@ BRACETS Dataset:  [![Paper Link](https://img.shields.io/badge/BRACETS%20Data-Men
 
 # Results
 <p align="center">
-<img width="1124" alt="Screenshot 2024-10-15 at 10 38 59 PM" src="https://github.com/user-attachments/assets/2e50f7d6-09f4-43e7-bfb3-b7335e7884e8"># RS-2-BP
+<img width="1124" alt="Screenshot 2024-10-15 at 10 38 59 PM" src="https://github.com/user-attachments/assets/2e50f7d6-09f4-43e7-bfb3-b7335e7884e8">
+</p>
+<p align="center">
+<img width="708" alt="Screenshot 2024-10-15 at 10 46 07 PM" src="https://github.com/user-attachments/assets/da4c5e25-8e70-4d09-82c7-cdedc3c0b187">
 </p>
 
 # Cite as
