@@ -30,6 +30,10 @@ Respiratory disorders have become the third largest cause of death worldwide, wh
 <img width="692" alt="Screenshot 2024-10-15 at 10 47 47 PM" src="https://github.com/user-attachments/assets/b128ec78-f262-4fd2-8d7f-15154b832adc">
 </p> 
 
+# Performance
+<p align="center">
+<img width="681" alt="Screenshot 2024-10-15 at 10 50 14 PM" src="https://github.com/user-attachments/assets/da1f1e79-6523-4150-9291-b979bb7089fd">
+</p> 
 
 # Cite as
 A. Roy and U. Satija, "RS-2-BP: A Unified Deep Learning Framework for Deriving EIT-Based Breathing Patterns From Respiratory Sounds," in *IEEE Signal Processing Letters*, vol. 31, pp. 2785-2789, 2024, doi: 10.1109/LSP.2024.3475358. 
