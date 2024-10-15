@@ -5,8 +5,8 @@
 **Authors: Arka Roy, Udit Satija**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rsarka34/RS-2-BP/blob/main/Model/RS-2-BP.ipynb)
-[![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-green)](https://ieeexplore.ieee.org/abstract/document/10709355)  
-[![Paper Link](https://img.shields.io/badge/Preprint-TechRixv-red)](https://doi.org/10.36227/techrxiv.172470166.68738781/v1) 
+[![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-green)](https://ieeexplore.ieee.org/abstract/document/10709355)
+[![Paper Link](https://img.shields.io/badge/Preprint-TechRixv-red)](https://doi.org/10.36227/techrxiv.172470166.68738781/v1)
 
 # Abstract
 <p align="justify">
