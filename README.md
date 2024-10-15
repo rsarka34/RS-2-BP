@@ -14,7 +14,10 @@ Respiratory disorders have become the third largest cause of death worldwide, wh
 </p>
 
 # Dataset
-**BRACETS Dataset:**  [![Paper Link](https://img.shields.io/badge/BRACETS%20Data-Mendeley%20Data-red)](https://data.mendeley.com/datasets/f43c7snks5/1)   
+**BRACETS Dataset:**  [![Paper Link](https://img.shields.io/badge/BRACETS%20Data-Mendeley%20Data-red)](https://data.mendeley.com/datasets/f43c7snks5/1)  
+<p align="center">
+<img width="1100" alt="Screenshot 2024-10-15 at 10 52 31 PM" src="https://github.com/user-attachments/assets/af6cbea1-71c8-4ae6-8b33-1b79c5b5839c">
+</p>
 
 # Methodology
 ![EIT_blockdiag_updated2](https://github.com/user-attachments/assets/37aef6dc-79d1-4147-ba80-b2fde0f33091)
