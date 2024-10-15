@@ -1,4 +1,4 @@
-<img width="1124" alt="Screenshot 2024-10-15 at 10 38 59 PM" src="https://github.com/user-attachments/assets/2e50f7d6-09f4-43e7-bfb3-b7335e7884e8"># RS-2-BP
+
 
 **RS-2-BP: A Unified Deep Learning Framework for Deriving EIT-Based Breathing Patterns from Respiratory Sounds**
 
@@ -15,14 +15,13 @@ Respiratory disorders have become the third largest cause of death worldwide, wh
 
 # Dataset
 BRACETS Dataset:  [![Paper Link](https://img.shields.io/badge/BRACETS%20Data-Mendeley%20Data-red)](https://data.mendeley.com/datasets/f43c7snks5/1)   
-![image](https://github.com/user-attachments/assets/91e6c78c-ea29-4ea5-a286-759fe430a97c)
 
 # Methodology
 ![EIT_blockdiag_updated2](https://github.com/user-attachments/assets/37aef6dc-79d1-4147-ba80-b2fde0f33091)
 
 # Results
 <p align="center">
-
+<img width="1124" alt="Screenshot 2024-10-15 at 10 38 59 PM" src="https://github.com/user-attachments/assets/2e50f7d6-09f4-43e7-bfb3-b7335e7884e8"># RS-2-BP
 </p>
 
 # Cite as
