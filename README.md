@@ -23,6 +23,8 @@ Respiratory disorders have become the third largest cause of death worldwide, wh
 ![EIT_blockdiag_updated2](https://github.com/user-attachments/assets/37aef6dc-79d1-4147-ba80-b2fde0f33091)
 
 # Results
+![output (1)](https://github.com/user-attachments/assets/9ff9c1e1-7211-4fd8-b129-534f2650eeb6)
+
 <p align="center">
 <img width="1124" alt="Screenshot 2024-10-15 at 10 38 59 PM" src="https://github.com/user-attachments/assets/2e50f7d6-09f4-43e7-bfb3-b7335e7884e8">
 </p>
@@ -32,6 +34,7 @@ Respiratory disorders have become the third largest cause of death worldwide, wh
 <p align="center">
 <img width="692" alt="Screenshot 2024-10-15 at 10 47 47 PM" src="https://github.com/user-attachments/assets/b128ec78-f262-4fd2-8d7f-15154b832adc">
 </p> 
+
 
 # Performance
 <p align="center">
