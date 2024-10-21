@@ -26,7 +26,7 @@ Respiratory disorders have become the third largest cause of death worldwide, wh
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ff9c1e1-7211-4fd8-b129-534f2650eeb6" alt="output (1)" width="900" height="550">
   <br>
-  <b>Figure 1:</b> Visualization of the simulation result
+  <b>Figure 1:</b> Visualization of the simulation result generated from Task-5
 </p>
 
 
